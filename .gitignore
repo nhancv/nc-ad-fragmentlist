@@ -1,0 +1,13 @@
+
+### .gitignore template
+*.iml
+*.idea
+*.ipr
+*.iws
+*.hprof
+out
+build
+captures
+.gradle
+.DS_Store
+local.properties
